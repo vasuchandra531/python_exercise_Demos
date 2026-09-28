@@ -1,0 +1,1 @@
+Python file handling is easy and powerful. We can read, tell, and seek within a file.
